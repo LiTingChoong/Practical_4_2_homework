@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical_4_2_homework</string>
+    <string name="check_chocololate">Chocololate syrup</string>
+    <string name="check_Sprinkles">Sprinkles</string>
+    <string name="check_Crushednuts">Crushed nuts</string>
+    <string name="check_Cherries">Cherries</string>
+    <string name="check_OrioCookie">Orio cookie crumbles</string>
+    <string name="btn_showtost">SHOW TOAST</string>
+</resources>
